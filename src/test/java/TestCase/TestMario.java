@@ -1,2 +1,6 @@
-package TestCase;public class TestMario {
+package TestCase;
+
+public class TestMario {
+
+
 }

@@ -3,7 +3,7 @@ package UTILITIES;
 import java.io.FileInputStream;
 import java.util.Properties;
 
-public class configurationPropiertis {
+public class ConfigurationReader {
     private static Properties properties;
 
     static {
@@ -11,7 +11,7 @@ public class configurationPropiertis {
         try {
 
             //which file to read
-            String path="conf.propiertis";
+            String path="conf.properties";
 
             //read file in java using string path
             FileInputStream input=new FileInputStream(path);

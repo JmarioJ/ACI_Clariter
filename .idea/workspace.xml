@@ -4,14 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afbebf84-b3b9-4cd5-b0f5-6151acfb7bb4" name="Changes" comment="" />
+    <list default="true" id="afbebf84-b3b9-4cd5-b0f5-6151acfb7bb4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf.properties" beforeDir="false" afterPath="$PROJECT_DIR$/conf.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Hooks/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Hooks/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjectFactory/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PageObjectFactory/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCase/ExcelDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCase/ExcelDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCase/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCase/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCase/TC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCase/TC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCase/TC2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCase/TC2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCase/TestMario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCase/TestMario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UTILITIES/ConfigurationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UTILITIES/ConfigurationReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UTILITIES/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UTILITIES/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UTILITIES/ExcelUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UTILITIES/ExcelUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UTILITIES/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UTILITIES/WebDriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Test Tariffario Umbria.xlsm" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Test Tariffario Umbria.xlsm" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HqkHX5Qhpos8eT0J8gZZ4CDQTP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,12 +45,121 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mario/Downloads/AciAutomation-main/AciAutomation-main/ACI_new_new/src/test/resources&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mario\Downloads\AciAutomation-main\AciAutomation-main\ACI_new_new\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mario\Downloads\AciAutomation-main\AciAutomation-main\ACI_new_new\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ExcelDemo.readmyfile">
+    <configuration name="ExcelDemo.readmyfile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ACI_new_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCase" />
+      <option name="MAIN_CLASS_NAME" value="TestCase.ExcelDemo" />
+      <option name="METHOD_NAME" value="readmyfile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ACI_new_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCase" />
+      <option name="MAIN_CLASS_NAME" value="TestCase.Login" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.logincaso" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ACI_new_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCase" />
+      <option name="MAIN_CLASS_NAME" value="TestCase.Login" />
+      <option name="METHOD_NAME" value="logincaso" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.loginlazio" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ACI_new_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCase" />
+      <option name="MAIN_CLASS_NAME" value="TestCase.Login" />
+      <option name="METHOD_NAME" value="loginlazio" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ACI_new_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCase" />
+      <option name="MAIN_CLASS_NAME" value="TestCase.TC2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ExcelDemo.readmyfile" />
+        <item itemvalue="TestNG.Login.logincaso" />
+        <item itemvalue="TestNG.Login" />
+        <item itemvalue="TestNG.Login.loginlazio" />
+        <item itemvalue="TestNG.TC2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
